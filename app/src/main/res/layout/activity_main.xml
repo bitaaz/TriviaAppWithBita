@@ -46,7 +46,7 @@
     <TextView
         android:id="@+id/high_score"
         android:text="@string/high_score_0"
-        android:visibility="gone"
+        android:visibility="visible"
         android:fontFamily="@font/chewy"
         android:textColor="@color/purple_500"
         android:layout_gravity="start"
